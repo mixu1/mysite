@@ -12,6 +12,7 @@ a {
 h1 {
     font-weight: normal;
     border-bottom: 1px solid #bbb;
+    padding: 0 0 10px 0;
 }
 
 h2 {
@@ -38,4 +39,10 @@ p.date {
     font-family: sans-serif;
     font-size: 12px;
     font-style: italic;
+}
+
+/*pagination*/
+.pagination {
+    margin: 40px 0;
+    font-weight: bold;
 }
